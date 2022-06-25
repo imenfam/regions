@@ -1,1 +1,1 @@
-.
+{"Location":"ru",DisplayName":"Russia","Dns":"84.201.187.108","Ip":"84.201.187.108"}
