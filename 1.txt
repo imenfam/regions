@@ -1,1 +1,0 @@
-{"DisplayName":"Russia","Dns":"84.201.187.108","Ip":"84.201.187.108","Location":"ru","AppId":"9801066c-4fc3-4adc-8fb9-9e2c0ad29c59","MasterServer":"","CloudRegionCode":11,"Enabled":true,"Online":true,"UseAppId":true,"UseMasterServer":false,"UseBestRegion":false,"IsTestRegion":false}
